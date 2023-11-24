@@ -32,5 +32,14 @@ Lots of luck and strength for this first week with us!
 
 Jane
 
-## Project Flow :  
+## Project Flow  
 [flow](Unit_6_Project.pdf)
+
+## Manual to run the project  
+
+1. Open the main.ipynb file
+
+2. Run all cells
+
+3. its ask for credentials of spotify: clienid and secret key
+
